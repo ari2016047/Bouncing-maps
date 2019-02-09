@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="sender">#33B5E5</color>
+    <color name="receiver">#99CC00</color>
+    <color name="white_grey">#EEEEEE</color>
+    <color name="button_select">#9E9E9E</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
