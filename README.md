@@ -1,1 +1,2 @@
 # Bouncing-maps
+Getting directions to a place is possible with a smart phone(google maps).But you may encounter with the problem of slow loading of google maps which troubles you in getting directions .So we came up with a solution where you get directions to a place with just an message which does not require any internet (mobile data) .User needs to send an message to a specified user known as Group Owner(GO) and he will be getting directions in the form of a text message.
